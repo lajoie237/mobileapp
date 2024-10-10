@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "376199259773",
+    "project_id": "camerlingo-20cea",
+    "storage_bucket": "camerlingo-20cea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376199259773:android:2e3ffd16ccb22d81b1f314",
+        "android_client_info": {
+          "package_name": "com.compagny.camerlingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdp7xZuaTmdTo-2LI134VGAec67bdFzTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376199259773:android:9f053fe53571d15bb1f314",
+        "android_client_info": {
+          "package_name": "com.reax.camerlingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdp7xZuaTmdTo-2LI134VGAec67bdFzTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
